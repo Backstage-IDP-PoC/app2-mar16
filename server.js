@@ -108,7 +108,7 @@ p {
 
 <div class="container">
 
-    <h1>🚀 Backstage SSP!! </h1>
+    <h1>🚀 Backstage Accelerator SSP!!! </h1>
 
     <p>Welcome to the DevOps Automation Platform Backstage Portal</p>
 
