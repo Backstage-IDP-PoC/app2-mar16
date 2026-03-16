@@ -108,9 +108,9 @@ p {
 
 <div class="container">
 
-    <h1>🚀 Backstage Accelerator SSP!!! </h1>
+    <h1>🚀 Welcome Backstage Accelerator SSP!!! </h1>
 
-    <p>Welcome to the DevOps Automation Platform Backstage Portal</p>
+    <p>Welcome to Backstage SSP Portal</p>
 
     <button class="btn"
         onclick="alert('Service is running successfully!')">
