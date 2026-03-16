@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: app2-mar16
+  description: Python app that displays time - named app2-mar16
+  annotations:
+    github.com/project-slug: Backstage-IDP-PoC/app2-mar16
+    backstage.io/techdocs-ref: dir:.
+    jenkins.io/job-full-name:  Backstage_PoC/app2-mar16/main
+    argocd/app-name: app2-mar16
+    argocd/instance-name: main
+ 
+spec:
+  type: service
+  owner: development
+
+  lifecycle: experimental
